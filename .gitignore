@@ -1,0 +1,5 @@
+# Ignore obj dir
+obj/
+
+# Ignore properties dir
+Properties/
